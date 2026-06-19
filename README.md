@@ -47,7 +47,7 @@ The dataset contains multiple numerical features representing the characteristic
 ## Project Workflow
 
 1. Load Dataset
-2. Data Cleaning & Validation
+2. Data Cleaning & ValidatioNS
 3. Label Encoding
 4. Feature Scaling
 5. Train-Test Split
