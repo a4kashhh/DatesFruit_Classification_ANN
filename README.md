@@ -1,4 +1,4 @@
-# Date Fruit Classification using Deep Learning on (PyTorch)
+# Date Fruit Classification using Deep Learning in (PyTorch)
 
 ## Overview
 
