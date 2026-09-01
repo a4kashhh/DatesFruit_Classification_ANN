@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project presents a Deep Learning based multi-class classification system for identifying different varieties of date fruits using an Artificial Neural Network (ANN) implemented on PyTorch.
+This project presents a Deep Learning based multi-class classification system for identifying different varieties of date fruits using an Artificial Neural Network (ANN) implemented in PyTorch.
 
 The model is trained on real-world agricultural data containing physical and morphological characteristics of date fruits. The project demonstrates a complete machine learning workflow including preprocessing, feature scaling, tensor conversion, ANN model development, training, and evaluation.
 
